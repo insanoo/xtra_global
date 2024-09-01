@@ -1,2 +1,0 @@
-# portofolio-tailwind-css
-# xtra
